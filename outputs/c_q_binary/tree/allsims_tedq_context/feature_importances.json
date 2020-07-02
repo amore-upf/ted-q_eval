@@ -1,0 +1,1 @@
+[["lemma_overlap(context, question, relative_to=right)", 0.5665929275553759], ["bert_score(context, question)", 0.2604064121036798], ["gleu_score(context, question)", 0.12513785147067522], ["mean_word_cosine(context, question)", 0.04786280887026898]]

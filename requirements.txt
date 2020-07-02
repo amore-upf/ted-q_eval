@@ -1,0 +1,14 @@
+tqdm
+numpy
+pandas
+spacy==2.1.0
+neuralcoref==4.0
+nltk
+fse
+torch
+simpletransformers
+scikit-learn
+localconfig
+bert-score
+seaborn
+treeinterpreter
