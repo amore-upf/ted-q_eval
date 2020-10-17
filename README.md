@@ -1,7 +1,8 @@
 # Similarity or deeper understanding? Analyzing the TED-Q dataset of evoked questions
-Repository with code and data for the CoLing2020 short paper.
 
-If you find our work useful, please consider citing the paper:
+**Matthijs Westera, Jacopo Amidei and Laia Mayol**
+
+Repository with code and data for the CoLing2020 paper:
 ```
 @inproceedings{westera2020coling,
   title={Similarity or deeper understanding? Analyzing the TED-Q dataset of evoked questions},
